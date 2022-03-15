@@ -11,3 +11,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=CSS3)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=HTML5)
+![Sass](https://img.shields.io/badge/-SASS-black?style=flat&logo=Sass)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=Webpack)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)
