@@ -14,3 +14,4 @@
 ![Sass](https://img.shields.io/badge/-SASS-black?style=flat&logo=Sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=Webpack)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript)
