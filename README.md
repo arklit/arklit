@@ -16,3 +16,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript)
 ![VueJs](https://img.shields.io/badge/-VueJs-black?style=flat&logo=VueJs)
+![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat&logo=Gulp)
