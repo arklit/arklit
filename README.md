@@ -1,8 +1,8 @@
 ### Hello, I'm Artem👋
 
 - 💬 i'm junior Web Developer
-- 📫 currently live in St. Petersburg
-- 👀 learning JS & React
+- 📫 saint-p based
+- 👀 TS & React & vue enjoyer
 - 🔎 how to reach me: artemoutside@gmail.com
 
 ### Stack
