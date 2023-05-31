@@ -1,9 +1,8 @@
 ### Hello, I'm Artem👋
 
-- 💬 i'm junior Web Developer
+- 💬 i'm frontend Developer
 - 📫 saint-p based
 - 👀 TS & React & vue enjoyer
-- 🔎 how to reach me: artemoutside@gmail.com
 
 ### Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)
